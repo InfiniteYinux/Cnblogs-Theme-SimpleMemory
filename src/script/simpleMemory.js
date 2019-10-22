@@ -99,7 +99,7 @@ if (initCheck()) {
         webpageTitleOnblurTimeOut: 500,
         webpageTitleFocus: "(*´∇｀*) 欢迎回来！",
         webpageTitleFocusTimeOut: 1000,
-        webpageIcon: "",
+        webpageIcon: "https://cdn.jsdelivr.net/gh/InfiniteYinux/cloud@2.15/favicon/favicons/favicon-32X32.png",
         fontIconExtend: "",
         progressBar: {
             id: 'top-progress-bar',
@@ -167,12 +167,12 @@ if (initCheck()) {
             animateSections: true
         },
         homeTopImg: [
-            "https://raw.githubusercontent.com/BNDong/Cnblogs-Theme-SimpleMemory/master/img/home_top_bg.jpg"
+            "https://cdn.jsdelivr.net/gh/InfiniteYinux/article@1.02/bg/chuyin2_1.jpg"
         ],
         homeBannerText: "",
         homeBannerTextType: "jinrishici",
         essayTopImg: [
-            "https://raw.githubusercontent.com/BNDong/Cnblogs-Theme-SimpleMemory/master/img/nothome_top_bg.jpg"
+            "https://cdn.jsdelivr.net/gh/InfiniteYinux/article@1.02/bg/chuyin2_2.jpg"
         ],
         essayCodeHighlightingType: 'cnblogs',
         essayCodeHighlighting: '',
